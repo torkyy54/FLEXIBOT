@@ -16,7 +16,7 @@ The robot integrates a **6-DOF manipulator** for interacting with its environmen
 ---
 
 ## 🛠️ Hardware Components
-- **Mobile Platform** – Differential drive base with DC motors.  
+- **Mobile Platform** – Differential drive base with Hub motors.  
 - **6-DOF Robotic Arm** – Custom-designed manipulator.  
 - **Sensors** – LiDAR, IMU, RFID module, and cameras.  
 - **Controllers** – Tiva-C microcontroller, Jetson TX2, Raspberry Pi 4.  
@@ -24,7 +24,7 @@ The robot integrates a **6-DOF manipulator** for interacting with its environmen
 ---
 
 ## 💻 Software & Tools
-- **Programming Languages**: Python, C, Embedded C++  
+- **Programming Languages**: Python, Embedded C, C++  
 - **Frameworks/Tools**:  
   - Robot Operating System (**ROS**)  
   - MoveIt! for motion planning  
@@ -49,3 +49,7 @@ The robot integrates a **6-DOF manipulator** for interacting with its environmen
 - Demonstrated secure RFID-based storage and delivery of medical supplies.  
 - Validated feasibility of using robotics for **low-cost healthcare automation in the MENA region**.  
 
+---
+
+## 📸 Demo
+![CAD Model](media/hospital_robot_cad.png)  
